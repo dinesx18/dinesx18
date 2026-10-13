@@ -38,7 +38,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dinesh-s-212536392/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="48" height="48" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/dinesx_18/" target="_blank">
