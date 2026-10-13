@@ -34,23 +34,23 @@
 
 <p align="left">
   <a href="https://github.com/dinesx18" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dinesh-s-212536392/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="48" height="48" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/dinesx_18/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Dinesx_18" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" height="50" alt="YouTube"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" alt="YouTube"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/Dinesx_18" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="50" height="50" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="48" height="48" alt="X"/>
   </a>
 </p>
 ---
