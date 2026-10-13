@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Dinesh!
 
-<!--
-**dinesx18/dinesx18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing B.E. Computer Science Engineering
+- 💻 Interested in Programming, Data Science & Cybersecurity
+- 🌱 Currently learning Java, Python, C++ and Web Development
+- 🔐 Exploring Linux, Networking and Ethical Hacking
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🏆 Hackathon enthusiast and technology explorer
+- 📫 Reach me through GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,git,github,vscode,linux,kali" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesx_18&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinesx_18&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/dinesx_18/dinesx_18/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinesx_18)
+
+---
+
+⭐ Thanks for visiting my profile!
