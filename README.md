@@ -42,9 +42,9 @@
   <a href="https://www.instagram.com/dinesx_18/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
   </a>
-  <a href="https://www.youtube.com/@Dinesx_18" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="45" height="45" />
-  </a>
+   <a href="https://www.youtube.com/@Dinesx_18">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
   <a href="https://x.com/Dinesx_18" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
   </a>
