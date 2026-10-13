@@ -20,9 +20,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
