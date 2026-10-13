@@ -42,7 +42,7 @@
   <a href="https://www.instagram.com/dinesx_18/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
   </a>
-  <a href="www.youtube.com/@Dinesx_18" target="_blank">
+  <a href="https://www.youtube.com/@Dinesx_18" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" width="45" height="45" />
   </a>
   <a href="https://x.com/Dinesx_18" target="_blank">
