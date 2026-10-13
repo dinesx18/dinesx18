@@ -30,9 +30,25 @@
 ---
 
 
-### 🤝 Connect With Me
+## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dinesx18)
+<p align="left">
+  <a href="https://github.com/dinesx18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
+  </a>
+  <a href="www.linkedin.com/in/dinesh-s-212536392" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+  </a>
+  <a href="https://www.instagram.com/dinesx_18/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" />
+  </a>
+  <a href="www.youtube.com/@Dinesx_18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="45" height="45" />
+  </a>
+  <a href="https://x.com/Dinesx_18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" />
+  </a>
+</p>
 
 ---
 
