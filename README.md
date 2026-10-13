@@ -21,11 +21,6 @@
 ---
 
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/dinesx_18/dinesx_18/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### 🤝 Connect With Me
 
