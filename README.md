@@ -22,7 +22,13 @@
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/dinesx_18/dinesx_18/output/github-contribution-grid-snake-dark.svg)
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinesx18/dinesx18/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
 
 ---
 
